@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio08\\main.cpp",
+  "directory": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio08",
+  "command": "clang++ -c C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio08\\main.cpp -o C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio07\\main.cpp",
+  "directory": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio07",
+  "command": "clang++ -c C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio07\\main.cpp -o C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio01\\main.cpp",
+  "directory": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio01",
+  "command": "clang++ -c C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio01\\main.cpp -o C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio04\\main.cpp",
+  "directory": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio04",
+  "command": "clang++ -c C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio04\\main.cpp -o C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio06\\main.cpp",
+  "directory": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio06",
+  "command": "clang++ -c C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio06\\main.cpp -o C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio03\\main.cpp",
+  "directory": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio03",
+  "command": "clang++ -c C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio03\\main.cpp -o C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio02\\main.cpp",
+  "directory": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio02",
+  "command": "clang++ -c C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio02\\main.cpp -o C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio05\\main.cpp",
+  "directory": "C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio05",
+  "command": "clang++ -c C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio05\\main.cpp -o C:\\Users\\mario\\Desktop\\UniversidadClases\\SegundoAno\\EstructurasDeDatos\\Laboratorio\\Ejercicios\\Ejercicio05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

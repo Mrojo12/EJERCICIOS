@@ -1,0 +1,8 @@
+C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio08\main.cpp
+C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio07\main.cpp
+C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio01\main.cpp
+C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio04\main.cpp
+C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio06\main.cpp
+C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio03\main.cpp
+C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio02\main.cpp
+C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio05\main.cpp
