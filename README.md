@@ -6,22 +6,22 @@
 
 El proyecto está organizado en diferentes carpetas:
 
-- **Ejercicio01/**
-- **Ejercicio02/**
-- **Ejercicio03/**
-- **Ejercicio04/**
-- **Ejercicio05/**
-- **Ejercicio06/**
-- **Ejercicio07/**
-- **Ejercicio08/**
-- **Ejercicio09/**
-- **Ejercicio10/**
-- **Ejercicio11/**
-- **Ejercicio12/**
-- **Ejercicio13/**
-- **Ejercicio14/**
-- **Ejercicio15/**
-- **Ejercicio16/**
+- **Ejercicio01**
+- **Ejercicio02**
+- **Ejercicio03**
+- **Ejercicio04**
+- **Ejercicio05**
+- **Ejercicio06**
+- **Ejercicio07**
+- **Ejercicio08**
+- **Ejercicio09**
+- **Ejercicio10**
+- **Ejercicio11**
+- **Ejercicio12**
+- **Ejercicio13**
+- **Ejercicio14**
+- **Ejercicio15**
+- **Ejercicio16**
 
 Cada carpeta contiene el código fuente y los archivos necesarios para compilar y ejecutar el ejercicio correspondiente.
 
