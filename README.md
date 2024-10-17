@@ -22,6 +22,9 @@ El proyecto está organizado en diferentes carpetas:
 - **Ejercicio14**
 - **Ejercicio15**
 - **Ejercicio16**
+- **Ejercicio17**
+- **EjercicioPropuesto01**
+- **EjercicioPropuesto02**
 
 Cada carpeta contiene el código fuente y los archivos necesarios para compilar y ejecutar el ejercicio correspondiente.
 
