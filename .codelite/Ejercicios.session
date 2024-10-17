@@ -1,45 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicios.workspace">
-  <int Value="1" Name="m_selectedTab"/>
+  <int Value="11" Name="m_selectedTab"/>
   <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicios.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio15\main.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto01\NodoPila.hpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio16\main.cpp" Name="FileName"/>
-      <int Value="2" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio15\NodoPila.hpp" Name="FileName"/>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto01\NodoPila.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio15\Pila.hpp" Name="FileName"/>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto01\Pila.hpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio15\NodoPila.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto01\Pila.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\Ejercicio15\Pila.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto01\Persona.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto01\Persona.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto02\NodoCola.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto02\NodoCola.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto02\Cola.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto02\Cola.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto02\Persona.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mario\Desktop\UniversidadClases\SegundoAno\EstructurasDeDatos\Laboratorio\Ejercicios\EjercicioPropuesto02\Persona.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
