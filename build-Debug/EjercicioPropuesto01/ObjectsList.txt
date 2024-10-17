@@ -1,0 +1,1 @@
+../build-Debug/EjercicioPropuesto01/main.cpp.o ../build-Debug/EjercicioPropuesto01/Persona.cpp.o ../build-Debug/EjercicioPropuesto01/NodoPila.cpp.o ../build-Debug/EjercicioPropuesto01/Pila.cpp.o   

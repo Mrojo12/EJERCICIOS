@@ -1,7 +1,9 @@
 #include "NodoPila.hpp"
 
-NodoPila::NodoPila()
+NodoPila::NodoPila(Persona* p, NodoPila* sig)
 {
+    persona = p;
+    siguiente = sig;
 }
 
 NodoPila::~NodoPila()
