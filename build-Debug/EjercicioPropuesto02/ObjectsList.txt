@@ -1,0 +1,1 @@
+../build-Debug/EjercicioPropuesto02/Persona.cpp.o ../build-Debug/EjercicioPropuesto02/NodoCola.cpp.o ../build-Debug/EjercicioPropuesto02/Cola.cpp.o ../build-Debug/EjercicioPropuesto02/main.cpp.o   

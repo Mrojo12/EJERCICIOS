@@ -16,13 +16,17 @@ int main(int argc, char **argv)
 	for (int i = 0; i < n; i++)
 	{
 		Persona* p = new Persona(a[i]);
-		p->mostrar();
 		pila.insertar(p);
 	}
 
+	cout << "Mostrando las edades de las personas en la pila:" << endl;	
 	pila.mostrar();
-	pila.extraer();
+	Persona* persona = pila.extraer();
+	cout << "Extraemos la persona con edad " << persona->getEdad() << endl;
+	cout << "Mostrando las edades de las personas en la pila:" << endl;
 	pila.mostrar();
+	cout << "La edad de la cima de la pila es: " << pila.cima()->getEdad() << endl;
+	cout << "La longitud de la pila es: " << pila.getLongitud() << endl;
 	
 	return 0;
 }
